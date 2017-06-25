@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FD529BA1EFFEE4100A0ED58"
+               BlueprintIdentifier = "0F19DBAE1EFD3554008D8303"
                BuildableName = "&#x4eff;SDWebImage.app"
                BlueprintName = "&#x4eff;SDWebImage"
                ReferencedContainer = "container:&#x4eff;SDWebImage.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD529BA1EFFEE4100A0ED58"
+            BlueprintIdentifier = "0F19DBAE1EFD3554008D8303"
             BuildableName = "&#x4eff;SDWebImage.app"
             BlueprintName = "&#x4eff;SDWebImage"
             ReferencedContainer = "container:&#x4eff;SDWebImage.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD529BA1EFFEE4100A0ED58"
+            BlueprintIdentifier = "0F19DBAE1EFD3554008D8303"
             BuildableName = "&#x4eff;SDWebImage.app"
             BlueprintName = "&#x4eff;SDWebImage"
             ReferencedContainer = "container:&#x4eff;SDWebImage.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FD529BA1EFFEE4100A0ED58"
+            BlueprintIdentifier = "0F19DBAE1EFD3554008D8303"
             BuildableName = "&#x4eff;SDWebImage.app"
             BlueprintName = "&#x4eff;SDWebImage"
             ReferencedContainer = "container:&#x4eff;SDWebImage.xcodeproj">
